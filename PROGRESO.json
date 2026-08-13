@@ -1,6 +1,6 @@
 {
   "total_pages": 796,
-  "last_processed_page": 44,
+  "last_processed_page": 46,
   "chapters": [
     {"chapter": "1 Scope", "pages": "43-44"},
     {"chapter": "2 Conformance", "pages": "45-46"},
@@ -30,6 +30,13 @@
       "id": 1,
       "chapter": "1 Scope",
       "pages": "43-44",
+      "status": "completed",
+      "translated_at": "2026-08-13"
+    },
+    {
+      "id": 2,
+      "chapter": "2 Conformance",
+      "pages": "45-46",
       "status": "completed",
       "translated_at": "2026-08-13"
     }
