@@ -1,0 +1,37 @@
+{
+  "total_pages": 796,
+  "last_processed_page": 44,
+  "chapters": [
+    {"chapter": "1 Scope", "pages": "43-44"},
+    {"chapter": "2 Conformance", "pages": "45-46"},
+    {"chapter": "3 Normative References", "pages": "47-48"},
+    {"chapter": "4 Terms and Definitions", "pages": "49-50"},
+    {"chapter": "5 Notational Conventions", "pages": "51-52"},
+    {"chapter": "6 Additional Information", "pages": "53-62"},
+    {"chapter": "7 Common Structure", "pages": "63-110"},
+    {"chapter": "8 Values", "pages": "111-140"},
+    {"chapter": "9 Classification", "pages": "141-208"},
+    {"chapter": "10 Simple Classifiers", "pages": "209-224"},
+    {"chapter": "11 Structured Classifiers", "pages": "225-282"},
+    {"chapter": "12 Packages", "pages": "283-326"},
+    {"chapter": "13 Common Behavior", "pages": "327-346"},
+    {"chapter": "14 StateMachines", "pages": "347-414"},
+    {"chapter": "15 Activities", "pages": "415-482"},
+    {"chapter": "16 Actions", "pages": "483-606"},
+    {"chapter": "17 Interactions", "pages": "607-680"},
+    {"chapter": "18 UseCases", "pages": "681-694"},
+    {"chapter": "19 Deployments", "pages": "695-710"},
+    {"chapter": "20 InformationFlows", "pages": "711-718"},
+    {"chapter": "21 Primitive Types", "pages": "719-720"},
+    {"chapter": "22 Standard Profile", "pages": "721-724"}
+  ],
+  "chunks": [
+    {
+      "id": 1,
+      "chapter": "1 Scope",
+      "pages": "43-44",
+      "status": "completed",
+      "translated_at": "2026-08-13"
+    }
+  ]
+}
